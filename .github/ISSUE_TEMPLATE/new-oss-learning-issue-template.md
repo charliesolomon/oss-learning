@@ -14,7 +14,7 @@ assignees: charliesolomon
 
 ### Exploration and documentation steps:
 
-* [ ] Create new markdown page to capture learning (use new-learning.md as template)
+* [ ] Create new markdown page to capture learning (use new-learning-template.md)
 * [ ] Record repo stats (% Python, activity, etc.)
 * [ ] Summarize (tweet) features you are interested in exploring (interesting folders, issues/PRs, etc.)
 * [ ] Identify main author(s)
